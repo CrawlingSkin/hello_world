@@ -1,2 +1,4 @@
 # hello_world
-just another repsitory
+
+Hi everyone,
+     I love programming. I love to travel new places.
